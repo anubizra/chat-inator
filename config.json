@@ -1,0 +1,13 @@
+{
+    "DiscordBotToken": "<discord token goes here>",
+    "Twitch": {
+        "Host": "irc.chat.twitch.tv",
+        "Port": 6667,
+        "OAuthToken": "<twitch oauth:token goes here>",
+        "Nickname": "<twitch username all lowercase goes here>",
+        "Channel": "<same as Nickname>"
+    },
+    "YouTube": {
+        "ClientSecret": "Config/client_secret.json"
+    }
+}
